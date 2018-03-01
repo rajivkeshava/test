@@ -26,4 +26,17 @@ export class NavBarComponent implements OnInit {
       }
     );
   }
+  
+   logout() {
+    this.loginService.logout().subscribe(
+      res => {
+        location.reload();
+      },
+      error => {
+       console.log(error in logout);
+      }
+    );
+  }
+  
+  
 }
