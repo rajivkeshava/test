@@ -42,10 +42,10 @@ public class BookstoreAngularApplication implements CommandLineRunner {
 		user2.setPassword(SecurityUtility.passwordEncoder().encode("abcd1234"));
 		user2.seteMail("rajiv.admin.com");
 		Set<UserRole> userRoles = new HashSet<>();
-		Role role1 = new Role();
-		role1.setRoleId(0);
-		role1.setName("ROLE_ADMIN");
-		userRoles.add(new UserRole(user2,role1));
+		Role role2 = new Role();
+		role2.setRoleId(0);
+		role2.setName("ROLE_ADMIN");
+		userRoles.add(new UserRole(user2,role2));
 		userService.createUser(user2,userRoles);
 		userRoles.clear();
 
