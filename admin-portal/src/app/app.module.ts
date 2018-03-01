@@ -2,14 +2,15 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
-imoort {Routing} from './app.routing';
+import { routing } from './app.routing';
 import { MaterialModule } from '@angular/material';
 import 'hammerjs';
 
 import { AppComponent } from './app.component';
 import { NavBarComponent } from './components/nav-bar/nav-bar.component';
-import { LoginComponent } from './login/login.component';
-import {LoginService} from './services/login.service';
+import { LoginComponent } from './components/login/login.component';
+
+import { LoginService } from './services/login.service';
 
 @NgModule({
   declarations: [
@@ -21,13 +22,12 @@ import {LoginService} from './services/login.service';
     BrowserModule,
     FormsModule,
     HttpModule,
-routing,
+    routing,
     MaterialModule
   ],
   providers: [
-  LoginService
+    LoginService
   ],
-
   bootstrap: [AppComponent]
 })
 export class AppModule { }
