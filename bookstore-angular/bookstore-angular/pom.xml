@@ -74,7 +74,7 @@
 			<version>2.5</version>
 			<scope>provided</scope>
 		</dependency>
-
+<!-- https://jar-download.com/?search_box=org.hibernate%20hibernate-core -->
 
 	</dependencies>
 
