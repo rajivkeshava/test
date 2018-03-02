@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { routing } from './app.routing';
-import { MaterialModule } from '@angular/material';
+import { MaterialModule } from './material.module';
 import 'hammerjs';
 
 import { LoginService } from './services/login.service';
