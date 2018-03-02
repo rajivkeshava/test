@@ -11,6 +11,8 @@ import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { LoginComponent } from './components/login/login.component';
 
 import { LoginService } from './services/login.service';
+import { AddBookService } from './services/add-book.service';
+
 import { AddNewBookComponent } from './add-new-book/add-new-book.component';
 
 @NgModule({
@@ -28,7 +30,8 @@ import { AddNewBookComponent } from './add-new-book/add-new-book.component';
     MaterialModule
   ],
   providers: [
-    LoginService
+    LoginService,
+    AddBookService
   ],
   bootstrap: [AppComponent]
 })
