@@ -6,14 +6,14 @@ import { routing } from './app.routing';
 import { MaterialModule } from '@angular/material';
 import 'hammerjs';
 
+import { LoginService } from './services/login.service';
+import { AddBookService } from './services/add-book.service';
+import { UploadImageService } from './services/upload-image.service';
+
 import { AppComponent } from './app.component';
 import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { LoginComponent } from './components/login/login.component';
-
-import { LoginService } from './services/login.service';
-import { AddBookService } from './services/add-book.service';
-
-import { AddNewBookComponent } from './add-new-book/add-new-book.component';
+import { AddNewBookComponent } from './components/add-new-book/add-new-book.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +31,8 @@ import { AddNewBookComponent } from './add-new-book/add-new-book.component';
   ],
   providers: [
     LoginService,
-    AddBookService
+    AddBookService,
+    UploadImageService
   ],
   bootstrap: [AppComponent]
 })
