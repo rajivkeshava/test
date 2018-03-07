@@ -17,36 +17,31 @@ import org.springframework.web.bind.annotation.RestController;
 import com.bookstore.service.UserService;
 
 @RestController
-public class LoginResource
-{
+public class LoginResource {
 	@Autowired
 	private UserService userService;
-
+	
 	@RequestMapping("/token")
-	public Map<String, String> token(HttpSession session, HttpServletRequest request) 
-	{
+	public Map<String, String> token(HttpSession session, HttpServletRequest request) {
 		System.out.println(request.getRemoteHost());
+		
 		String remoteHost = request.getRemoteHost();
 		int portNumber = request.getRemotePort();
+		
 		System.out.println(remoteHost+":"+portNumber);
 		System.out.println(request.getRemoteAddr());
+		
 		return Collections.singletonMap("token", session.getId());
 	}
-
+	
 	@RequestMapping("/checkSession")
-	public ResponseEntity checkSession()
-	{
+	public ResponseEntity checkSession() {
 		return new ResponseEntity("Session Active!", HttpStatus.OK);
 	}
 	
-	@RequestMapping(value="/user/logout", method= RequestMethod.POST)
-	public ResponseEntity logout()
-	{
+	@RequestMapping(value="/user/logout", method=RequestMethod.POST)
+	public ResponseEntity logout(){
 		SecurityContextHolder.clearContext();
-		return new ResponseEntity("Session Active!", HttpStatus.OK);
+		return new ResponseEntity("Logout Successfully!", HttpStatus.OK);
 	}
-	
-	
-	
-	
 }
