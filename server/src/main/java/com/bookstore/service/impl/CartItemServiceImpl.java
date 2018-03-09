@@ -5,6 +5,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.bookstore.domain.Book;
 import com.bookstore.domain.BookToCartItem;
@@ -52,6 +53,7 @@ public class CartItemServiceImpl implements CartItemService{
 		return cartItem;
 	}
 	
+	@Transactional
 	public void removeCartItem(CartItem cartItem) {
 		bookToCartItemRepository.deleteByCartItem(cartItem);
 		cartItemRepository.delete(cartItem);
