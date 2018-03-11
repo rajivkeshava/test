@@ -74,7 +74,22 @@
 			<version>2.5</version>
 			<scope>provided</scope>
 		</dependency>
-<!-- https://jar-download.com/?search_box=org.hibernate%20hibernate-core -->
+		<!-- https://jar-download.com/?search_box=org.hibernate%20hibernate-core -->
+
+		<!-- https://mvnrepository.com/artifact/javax.mail/mail -->
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
+			<version>1.4</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.thymeleaf/thymeleaf -->
+		<dependency>
+			<groupId>org.thymeleaf</groupId>
+			<artifactId>thymeleaf</artifactId>
+			<version>2.1.2.RELEASE</version>
+		</dependency>
+
 
 	</dependencies>
 

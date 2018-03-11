@@ -37,7 +37,12 @@ public class CartItem implements Serializable{
 	@JoinColumn(name="shopping_cart_id")
 	@JsonIgnore
 	private ShoppingCart shoppingCart;
-
+	
+	@ManyToOne
+	@JoinColumn(name = "order_id")
+	@JsonIgnore
+	private Order order;
+	
 	public Long getId() {
 		return id;
 	}
@@ -85,6 +90,7 @@ public class CartItem implements Serializable{
 	public void setShoppingCart(ShoppingCart shoppingCart) {
 		this.shoppingCart = shoppingCart;
 	}
+
 	public Order getOrder() {
 		return order;
 	}
