@@ -8,15 +8,15 @@ export class LoginService {
   constructor(private http: Http) { }
 
   sendCredential(username: string, password: string) {
-    let url = "http://localhost:8181/token";
-    let encodedCredentials = btoa(username+":"+password);
-    let basicHeader = "Basic "+encodedCredentials;
-    let headers = new Headers ({
-      'Content-Type' : 'application/x-www-form-urlencoded',
-      'Authorization' : basicHeader
-    });
+  	let url = "http://localhost:8181/token";
+  	let encodedCredentials = btoa(username+":"+password);
+  	let basicHeader = "Basic "+encodedCredentials;
+  	let headers = new Headers ({
+  		'Content-Type' : 'application/x-www-form-urlencoded',
+  		'Authorization' : basicHeader
+  	});
 
-    return this.http.get(url, {headers: headers});
+  	return this.http.get(url, {headers: headers});
 
   }
 
@@ -30,16 +30,13 @@ export class LoginService {
     return this.http.get(url, {headers: headers});
   }
 
-    logout() {
+  logout() {
     let url = "http://localhost:8181/user/logout";
     
     let headers = new Headers ({
       'x-auth-token' : localStorage.getItem('xAuthToken')
     });
 
-    return this.http.post(url,'',{headers: headers});
+    return this.http.post(url, '', {headers: headers});
   }
-  
-  
-  
 }
