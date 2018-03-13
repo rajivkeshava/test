@@ -1,0 +1,6 @@
+cls
+c
+clear
+npm install
+ls -ltr
+mvn clean install

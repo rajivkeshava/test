@@ -1,0 +1,159 @@
+2018-03-11 15:06:52,360 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-03-11 15:11:15,396 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-03-11 15:11:32,486 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bookstore:bookstore:0.0.1-SNAPSHOT @ C:\Users\rajiv\Desktop\RAJIV\repo\server\pom.xml.
+2018-03-11 15:12:11,785 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2018-03-11 15:12:11,785 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2018-03-11 15:12:12,910 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /server/src/main/resources
+2018-03-11 15:12:13,051 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2018-03-11 15:12:38,020 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 82 sec
+2018-03-11 15:13:00,567 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:13:00,583 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:13:00,661 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:13:01,427 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:13:01,427 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:20:23,204 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:20:23,235 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-11 15:20:23,235 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-11 15:20:23,250 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:20:23,250 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:22:09,298 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:22:09,376 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:22:09,626 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:22:10,579 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:22:10,595 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:22:14,036 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:22:14,083 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:22:14,161 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:22:14,239 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:22:14,239 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:26:14,733 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bookstore:bookstore:0.0.1-SNAPSHOT @ C:\Users\rajiv\Desktop\RAJIV\repo\server\pom.xml.
+2018-03-11 15:26:28,664 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/mail/mail/1.4/mail-1.4.pom
+2018-03-11 15:26:29,772 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/mail/mail/1.4/mail-1.4.pom
+2018-03-11 15:26:38,798 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2018-03-11 15:27:11,720 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.pom
+2018-03-11 15:27:13,735 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/mail/mail/1.4/mail-1.4.jar
+2018-03-11 15:27:22,995 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/mail/mail/1.4/mail-1.4.jar
+2018-03-11 15:27:23,293 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2018-03-11 15:27:25,587 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2018-03-11 15:27:33,803 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:27:33,811 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-11 15:27:33,814 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-11 15:27:33,846 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:27:33,851 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:27:42,928 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bookstore:bookstore:0.0.1-SNAPSHOT @ C:\Users\rajiv\Desktop\RAJIV\repo\server\pom.xml.
+2018-03-11 15:27:49,163 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:27:49,219 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:27:49,340 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:27:49,379 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:27:49,380 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:27:55,848 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:27:55,884 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:27:55,968 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:27:56,655 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:27:56,657 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:29:12,155 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:29:12,202 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:29:12,249 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:29:12,311 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:29:12,311 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:30:22,675 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bookstore:bookstore:0.0.1-SNAPSHOT @ C:\Users\rajiv\Desktop\RAJIV\repo\server\pom.xml.
+2018-03-11 15:30:30,173 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/2.1.2.RELEASE/thymeleaf-2.1.2.RELEASE.pom
+2018-03-11 15:30:30,622 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/2.1.2.RELEASE/thymeleaf-2.1.2.RELEASE.pom
+2018-03-11 15:30:34,238 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ognl/ognl/3.0.6/ognl-3.0.6.pom
+2018-03-11 15:30:39,475 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ognl/ognl/3.0.6/ognl-3.0.6.pom
+2018-03-11 15:30:40,818 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/2.1.2.RELEASE/thymeleaf-2.1.2.RELEASE.jar
+2018-03-11 15:30:45,564 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/2.1.2.RELEASE/thymeleaf-2.1.2.RELEASE.jar
+2018-03-11 15:30:45,925 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ognl/ognl/3.0.6/ognl-3.0.6.jar
+2018-03-11 15:30:47,095 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ognl/ognl/3.0.6/ognl-3.0.6.jar
+2018-03-11 15:30:53,665 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:30:53,665 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-11 15:30:53,665 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-11 15:30:53,680 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:30:53,680 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:31:07,022 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:31:07,074 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:31:07,246 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:31:07,740 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:31:07,756 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:31:44,606 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:31:44,648 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:31:44,751 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:31:45,632 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:31:45,632 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:31:46,851 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:31:46,912 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:31:46,964 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:31:47,037 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:31:47,040 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:32:26,103 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:32:26,185 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:32:26,421 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:32:26,548 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:32:26,548 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:35:29,546 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:35:29,656 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:35:29,887 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:35:31,801 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:35:31,801 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:36:50,807 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:36:50,916 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:36:51,026 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:36:52,456 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:36:52,456 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:47:39,493 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-03-11 15:49:06,403 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:49:06,418 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:49:06,512 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:49:07,340 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:49:07,340 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:50:56,106 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:50:56,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:50:56,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:50:56,700 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:50:56,700 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:53:26,869 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:53:26,963 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:53:27,119 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:53:27,496 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:53:27,496 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 15:58:47,072 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:58:47,072 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 15:58:47,088 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 15:58:47,588 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 15:58:47,588 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 16:02:28,038 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:02:28,085 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 16:02:28,131 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 16:02:28,600 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:02:28,600 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 16:03:08,650 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:03:08,681 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 16:03:08,759 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 16:03:09,353 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:03:09,353 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 16:03:53,387 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:03:53,387 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-11 16:03:53,387 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-11 16:03:53,418 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:03:53,418 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 16:04:52,544 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:04:52,622 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 16:04:52,654 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 16:04:53,200 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:04:53,200 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 16:05:51,269 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:05:51,331 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 16:05:51,362 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 16:05:52,003 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:05:52,003 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 16:25:14,793 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:25:14,824 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 16:25:14,886 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 16:25:14,933 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 16:25:14,933 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
+2018-03-11 20:13:44,050 [Worker-138] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bookstore:bookstore:0.0.1-SNAPSHOT @ C:\Users\rajiv\Desktop\RAJIV\repo\server\pom.xml.
+2018-03-11 20:14:20,820 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 20:14:20,831 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-11 20:14:21,029 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2018-03-11 20:14:21,169 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-11 20:14:21,173 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rajiv\Desktop\RAJIV\repo\server\src\test\resources
